@@ -1,5 +1,6 @@
 # Hello, i am Jean Hamm
-### I am a Front End Developer
+
+<img src="code.png"/>
 
 ### My languagens 
 
@@ -13,4 +14,4 @@
 <a href="https://www.linkedin.com/in/jean-michel-hamm-bb018a226/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a> 
 <a href="https://www.instagram.com/hamm_jean/"><img src="instagram.png" width="40" height="40"/></a>          
 
-          
+<h2>I am a Front End Developer</h2>
