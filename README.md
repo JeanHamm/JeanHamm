@@ -1,5 +1,5 @@
 # Hello, i am Jean Hamm
-<p>I am a Front End Developer</p>
+### I am a Front End Developer
 
 ### My languagens 
 
