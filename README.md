@@ -2,7 +2,7 @@
 
 ### My languagens
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />  &nbsp;&nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> &nbsp;&nbsp;   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> &nbsp;&nbsp;   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/python.svg" width="40" height="40" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />  &nbsp;&nbsp;  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" /> &nbsp;&nbsp;   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> &nbsp;&nbsp;   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" />
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanHamm&count_private=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanHamm&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;&nbsp;
