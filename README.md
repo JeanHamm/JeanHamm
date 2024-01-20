@@ -2,8 +2,6 @@
 
 ### My languagens
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" /> &nbsp;&nbsp;   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css" width="40" height="40" />
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeanHamm&count_private=true&theme=radical)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeanHamm&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;&nbsp;
 &nbsp;&nbsp;
